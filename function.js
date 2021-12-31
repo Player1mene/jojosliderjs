@@ -33,7 +33,7 @@ setInterval(()=>{
         innerBullets[i].style = 'background-color: #ccc;'
     }
     innerBullets[curIndex].style = 'background-color: cyan;';
-},7000)
+},10000)
 
 
 innerBullets.forEach((item,index)=>{
